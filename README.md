@@ -28,5 +28,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <!-- تقدر تبدل روابط التواصل الاجتماعي ديالك هنا -->
-[![LinkedIn Badge](https://img.shields.io/badge/-Rayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) 
-[![GitHub Badge](https://img.shields.io/badge/-RayanDev-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
+[![LinkedIn Badge]([https://img.shields.io/badge/-Rayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/](https://www.linkedin.com/in/mazizmohammedrayane/)) 
+[![GitHub Badge]([https://img.shields.io/badge/-RayanDev-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/)](https://github.com/](https://github.com/mz-rayane))
