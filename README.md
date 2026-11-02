@@ -2,10 +2,10 @@
  <br>Hi there! 👋 I'm Rayan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
  <br> Full-Stack Web Developer & 2nd Year BTS Student :computer:<br>
  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-engineer.gif" alt="Coder GIF" width="400">
  </h2> 
 
-<h2 align="left">:hammer_and_wrench: Technologies & Tools I Use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -19,13 +19,13 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Full-Stack Web Developer and a 2nd year BTS student.
+- :computer: I'm a Full-Stack Web Developer, currently studying in my 2nd year BTS.
 - :books: Passionate about Object-Oriented Programming (POO), databases (SGBD), and building clean web applications.
-- :rocket: Always ready to learn new frameworks, tools, and collaborate on exciting dev projects.
+- :rocket: Always ready to learn new tools and collaborate on dev projects.
 - :dart: Mindset: "Code, Debug, Improve, Repeat."
-- :zap: Fun fact: I love turning complex logic into simple, elegant user experiences!
+- :zap: Fun fact: I love turning complex logic into simple, elegant user experiences!<br>
 
-<h2 align="left">:heart: Let's Get Connected:</h2>
+<h2 align="left">:heart: Let's get connected:</h2>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazizmohammedrayane/)](https://www.linkedin.com/in/mazizmohammedrayane/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazizmohammedrayane/)](https://www.linkedin.com/in/mazizmohammedrayane/) 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mz-rayane)](https://github.com/mz-rayane)
