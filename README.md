@@ -13,8 +13,8 @@
     <a href="https://php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -23,13 +23,4 @@
 - :books: Passionate about Object-Oriented Programming (POO), databases (SGBD), and building clean web applications.
 - :rocket: Always ready to learn new frameworks, tools, and collaborate on exciting dev projects.
 - :dart: Mindset: "Code, Debug, Improve, Repeat."
-- :zap: Fun fact: I love turning complex logic into simple, elegant user experiences!
-
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mz-rayane&show_icons=true&theme=radical" alt="Rayan's GitHub Stats" />
-</p>
-
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Rayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazizmohammedrayane/)](https://www.linkedin.com/in/mazizmohammedrayane/)
+- :zap: Fun fact:
